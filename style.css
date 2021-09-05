@@ -1,0 +1,138 @@
+/*
+CSS Style for RentADog Website.
+ */
+*{
+    box-sizing: border-box;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    color: #576675
+
+}
+
+/*
+Line under title
+ */
+hr {
+    border: 0;
+    height: 2px;
+    background: #333;
+    background-image: linear-gradient(to right, #ccc, #333, #ccc);
+    width: 80%;
+}
+
+body {
+
+    background: #eeeeee;
+    font-family: "Montserrat", sans-serif;
+    width: 700px;
+    margin: 0 auto;
+}
+
+
+/*
+NAVIGATION EFFECTS
+ */
+.navMenu {
+    position: absolute;
+    top: 20%;
+    left: 45%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+.navMenu a {
+    color: #5676675;
+    text-decoration: none;
+    font-size: 1.1em;
+    text-transform: uppercase;
+    font-weight: 500;
+    display: inline-block;
+    width: 80px;
+    -webkit-transition: all 0.2s ease-in-out;
+    transition: all 0.2s ease-in-out;
+}
+
+
+.navMenu a:hover {
+    color: #20b2aa;
+}
+a {
+    text-decoration: none;
+    font-size: 1.2em;
+}
+nav ul {
+    list-style-type: none;
+    text-align: center;
+    font-size: 1.2em;
+}
+
+nav li {
+    display: inline-block;
+    width: 250px;
+    margin: 5px 5px 5px 5px;
+
+}
+
+nav {
+    white-space: nowrap;
+}
+
+/*
+HEADINGS
+ */
+h1,
+h2 {
+    margin: 0;
+
+}
+
+h1 {
+    font-size: 48px;
+    display: inline-block;
+}
+
+h2 {
+    font-size: 25px;
+}
+
+h3 {
+    font-size: 14px;
+}
+
+figure {
+    margin: 0;
+}
+
+/**   Header **/
+header {
+    top: 0;
+    width: inherit;
+    z-index: 100;
+    text-align: center;
+}
+
+
+/** main element **/
+/*    !*big top margin to display below header*!*/
+main {
+    margin-top: 100px;
+}
+
+/**   Contact page   **/
+.contact {
+    list-style-type: none;
+    display: flex;
+    text-align: center;
+}
+
+.contact li {
+    text-align: center;
+    width: 32%;
+}
+
+/**   Footer   **/
+footer {
+    text-align: center;
+
+}
+

@@ -1,0 +1,40 @@
+{
+	"bookings": {
+		"booking": [
+			{
+				"dogId": ["DW-001", "DW-002"],
+				"name": "Garner Family",
+				"pickup": {
+					"day": "15",
+					"month": "08",
+					"year": "2021",
+					"time": "13:30"
+				},
+				"numHours": "4"
+			},
+			{
+				"dogId": ["DW-003","DW-004"],
+				"name": "Mr and Mrs Jones",
+				"pickup": {
+					"day": "15",
+					"month": "08",
+					"year": "2021",
+					"time": "10:00"
+				},
+				"numHours": "6"
+			},
+			{
+				"dogId": ["DW-001"],
+				"name": "Sandy Shaw",
+				"pickup": {
+					"day": "16",
+					"month": "08",
+					"year": "2021",
+					"time": "11:00"
+				},
+				"numHours": "2"
+			}
+
+		]
+	}
+}

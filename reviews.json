@@ -1,0 +1,17 @@
+[
+	{
+		"title": "Great Company",
+		"author": "Test User",
+		"reviewcontent": "Great company, great dogs, great prices!"
+	},
+	{
+		"title": "Had a Ball!",
+		"author": "Test User2",
+		"reviewcontent": "Had a great time throwing the ball. Lovely to have a dog just when I want one."
+	},
+	{
+		"title": "Friendly and Helpful",
+		"author": "Test User3",
+		"reviewcontent": "The staff couldn't be nicer and the dogs are fantastic."
+	}
+]

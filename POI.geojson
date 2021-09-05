@@ -1,0 +1,192 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "type": "campsite",
+        "name": "Car Rental Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          170.5153065919876,
+          -45.90540437585189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "triangle",
+        "name": "St Clair Beach",
+        "type": "landmark"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          170.49052566289902,
+          -45.911734850052895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Hot Water Pool",
+        "type": "landmark"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          170.48803120851517,
+          -45.913724171912456
+        ]
+      }
+    },
+    {
+          "type": "Feature",
+          "properties": {
+            "marker-color": "#7e7e7e",
+            "marker-size": "medium",
+            "marker-symbol": "",
+            "type": "restaurant",
+            "name": "Esplanade"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              170.49030303955075,
+              -45.911675131971606
+            ]
+          }
+        },
+     {
+              "type": "Feature",
+              "properties": {
+                "marker-color": "#7e7e7e",
+                "marker-size": "medium",
+                "marker-symbol": "",
+                "type": "park",
+                "name": "Opoho Park"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  170.527225,
+                  -45.8589
+                ]
+              }
+            },
+     {
+                   "type": "Feature",
+                   "properties": {
+                     "marker-color": "#7e7e7e",
+                     "marker-size": "medium",
+                     "marker-symbol": "",
+                     "type": "office",
+                     "name": "RentADog Offices"
+                   },
+                   "geometry": {
+                     "type": "Point",
+                     "coordinates": [
+                       170.51143,
+                       -45.862857
+                     ]
+                   }
+                 },
+      {
+                "type": "Feature",
+                   "properties": {
+                     "marker-color": "#7e7e7e",
+                     "marker-size": "medium",
+                     "marker-symbol": "",
+                     "type": "park",
+                     "name": "Prospect Park"
+                   },
+                   "geometry": {
+                     "type": "Point",
+                     "coordinates": [
+                       170.508728,
+                       -45.856957
+                     ]
+                   }
+                 },
+     {
+                     "type": "Feature",
+                        "properties": {
+                          "marker-color": "#7e7e7e",
+                          "marker-size": "medium",
+                          "marker-symbol": "",
+                          "type": "park",
+                          "name": "Woodhaugh Gardens"
+                        },
+                        "geometry": {
+                          "type": "Point",
+                          "coordinates": [
+                            170.510666,
+                            -45.854555
+                          ]
+                        }
+                      },
+        {
+                           "type": "Feature",
+                              "properties": {
+                                "marker-color": "#7e7e7e",
+                                "marker-size": "medium",
+                                "marker-symbol": "",
+                                "type": "walking track",
+                                "name": "Ross Creek Reservoir Forest Walk"
+                              },
+                              "geometry": {
+                                "type": "Point",
+                                "coordinates": [
+                                  170.495939,
+                                  -45.844943
+                                ]
+                              }
+                            },
+         {
+                                   "type": "Feature",
+                                      "properties": {
+                                        "marker-color": "#7e7e7e",
+                                        "marker-size": "medium",
+                                        "marker-symbol": "",
+                                        "type": "walking track",
+                                        "name": "Frasers Gully Bush Walk"
+                                      },
+                                      "geometry": {
+                                        "type": "Point",
+                                        "coordinates": [
+                                          170.469961,
+                                          -45.862876
+                                        ]
+                                      }
+                                    },
+      {
+                                        "type": "Feature",
+                                           "properties": {
+                                             "marker-color": "#7e7e7e",
+                                             "marker-size": "medium",
+                                             "marker-symbol": "",
+                                             "type": "walking track",
+                                             "name": "Tomahawk Lagoon/41-Peg Track"
+                                           },
+                                           "geometry": {
+                                             "type": "Point",
+                                             "coordinates": [
+                                               170.552166,
+                                               -45.902119
+                                             ]
+                                           }
+                                         }
+  ]
+}
